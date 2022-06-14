@@ -18,4 +18,4 @@ This is composed of 3 categories in general
 |:three:Jun.27-4|내용 10|내용 11|내용 12|내용 4|내용 4|
 
 ## Study Plan  :pushpin:
-    :green_book: Algorithm - Search (binary, Linear, Hash )
+:paperclip: Algorithm - Search (binary, Linear, Hash )
