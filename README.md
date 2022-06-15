@@ -13,7 +13,7 @@ This is composed of 3 categories in general
 
 ||Q1|Q2|Q3|Q4|Q5|note|
 |:---:|---|---|---|---|---|---|
-|:one: Jun.13-19|[Binary search ](https://leetcode.com/problems/binary-search/)|[First Bad Version](https://leetcode.com/problems/first-bad-version/) |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|내용 4|내용 4|Algorithm I Study plan (14Days)
+|:one: Jun.13-19|[Binary search ](https://leetcode.com/problems/binary-search/)|[First Bad Version](https://leetcode.com/problems/first-bad-version/) |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|내용 4|Algorithm I Study plan (14Days)
 |:two:Jun.20-26|내용 6|내용 7|내용 8|내용 4|내용 4|
 |:three:Jun.27-4|내용 10|내용 11|내용 12|내용 4|내용 4|
 
