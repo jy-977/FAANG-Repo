@@ -20,7 +20,7 @@ class Solution:
 
 # idea 2) 22ms, 13.8mb  
 # solution
-#       1.length check
+#       1.length 확인
 #       2.get node
         # cnt =newcnt = 1
         # test = back = head
