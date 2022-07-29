@@ -17,7 +17,9 @@ This is composed of 3 categories in general
 |Two pointers|283 E Move zeroes|167 M two SumII |[344 E Reverse String](https://leetcode.com/problems/reverse-string/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/344.E.Reverse%20String.py)|[557 E Reversed Words in a StringIII](https://leetcode.com/problems/reverse-words-in-a-string-iii/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/557.E.Reverse%20Words%20in%20a%20String%20III.py)|[876 E Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/876.E.Middle%20of%20the%20LinkedList.py)
 |Sliding window|[3 M Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/3.M.Longest%20Substring%20Without%20Repeating%20Characters.py)|[ 567 M Permutation in String](https://leetcode.com/problems/permutation-in-string/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/567.M.Permuation%20in%20String.py)
 |BFS, DFS|[733 E Flood Fill](https://leetcode.com/problems/flood-fill/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/994.M.Rotting%20Oranges.py)|[116 M Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/116.M.Popluating%20Next%20Right%20Pointers%20in%20Each%20Node.py)|[617 E Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/617.E.Merge%20Two%20Binary%20Trees.py) |[542 M 01 Matrix](https://leetcode.com/problems/01-matrix/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/542.M.01%20Matrix.py)|[944 M Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) [:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/994.M.Rotting%20Oranges.py)|
+|Backtracking|||||
 
+## ALGO
 -Two pointers
 
 -Sliding Window
@@ -25,6 +27,10 @@ This is composed of 3 categories in general
 -DFS
 
 -BFS
+
+-Backtracking
+
+- [] 시간날때 dfs, bfs, backtracking 총정리 하기!
 
 ####
 -Binay Tree /Perfect Binary Tree
