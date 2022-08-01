@@ -1,3 +1,38 @@
+
+        def bfs(r,c) :
+            dirs=[(0,-1),(-1,0),(0,1),(1,0)]
+            visited= set()
+            q = deque([((r,c),0)])
+            
+            while q : 
+                for i in range(len(q)):
+                    cur,d = q.popleft();
+                    cur_r,cur_c = cur
+                    if(mat[cur_r][cur_c]==0): return d
+                    visited.add(cur)
+                    for dir in dirs : 
+                        newR , newC = cur_r+dir[0], cur_c+dir[1]
+                        if(newR>=0 and newR<len(mat) and newC>=0 and newC<len(mat[0])):
+                            if(newR,newC) not in visited : 
+                                q.append(((newR, newC),d+1))
+            return -1
+            
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # <1, AUG>
 
 # 뭔가 ㅋㅋ 깃에 일기 쓰는거 웃긴다 원래는 다이어리에 쓰기도 하지만..
@@ -18,5 +53,15 @@
 # 한 1월 중하반기 부터 throw 할 생각인데.. 내년상반기에 뽀갤수 있었으면 좋겠다
 
 # 뭔가 계속 한국 들어갈 생각때문에 스페인에서의 삶을 충분히 즐기지 못하는 것 같은 느낌도 있다.
-# 항상 마음에 뭔가 공이 걸려있는 것 같은 감각?
+# 항상 마음에 뭔가 공이 걸려있는 것 같은 감각? 
+# 그렇다고 한국에 아예 들어가버리면 ㅠㅠ 스페인 그리워서 어떻게 살아
+# 너무 좋은걸.. 가족 친구 다 데려와서 여기서 살고싶다 엄마 보고싶어 ㅠㅠ
+# 그냥 저녁밥 같이 차려서 먹는 그런 소소한 일상이 너무 그립다ㅠㅠ 뿌엥...
+# 뿌엥.. 뿌엥... 
+# 뿌엥ㅇ... ㅠㅠㅠ
+
+# 뭔가 괴리가 있는게 친구들이나 친한 사람들한테는 이런 얘기 잘 안하니깐 외국에 산다고 신기하다고 하지만
+# 집에오면 vscode에다가 일기쓰면서 뿌엥 거리고 있구..ㅋㅋ ㅠㅠ 
+# 괜차나 정윤아.... 
+
 
