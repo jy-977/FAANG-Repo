@@ -5,6 +5,13 @@
 #         self.next = next
 class Solution:
     def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
+
+        
+#     problem analysis
+# 1) recursive
+# 2) linked list
+
+# idea 1) recursive linked list 41ms 13.9mb
         node = ListNode()
         if(list1 and list2): 
             if(list1.val < list2.val) : 
@@ -17,9 +24,6 @@ class Solution:
         else : 
             return list1 or list2
         
-#     problem analysis
-# 1) recursive
-
 
 # recursive 특수 자료형 공식 (list, tree )
 # 1)파라미터 둘다 있는지 확인
