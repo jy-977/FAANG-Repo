@@ -1,6 +1,6 @@
-# Mamang-Repo
+#:bomb: FAANG!-Repo :bomb:
 
-Mamang-Repo is a repository for NEW CHALLENGE of career. 
+FAANG-Repo is a repository for NEW CHALLENGE of career. 
 I aim to join to Mamang in next year (2023) as a Data Engineer. 
 The practice of [leet code](https://leetcode.com/) problems is going to be uploaded irregularly for the coding interview. 
 This is composed of 3 categories in general 
