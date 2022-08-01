@@ -1,4 +1,4 @@
-#:bomb: FAANG!-Repo :bomb:
+# :bomb: FAANG!-Repo :bomb:
 
 FAANG-Repo is a repository for NEW CHALLENGE of career. 
 I aim to join to Mamang in next year (2023) as a Data Engineer. 
