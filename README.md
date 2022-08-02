@@ -1,6 +1,5 @@
 # :bomb: FAANG!-Repo :bomb:
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjy-977%2FFAANG-Repo&count_bg=%23DFDFDF&title_bg=%23E5E5E5&icon=aiqfome.svg&icon_color=%232164DD&title=Good&edge_flat=true)](https://hits.seeyoufarm.com)
 
 FAANG-Repo is a repository for NEW CHALLENGE of career. 
 I aim to join to Mamang in next year (2023) as a Data Engineer. 
