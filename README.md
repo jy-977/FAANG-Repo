@@ -5,24 +5,8 @@
 </div>
 
 
-FAANG-Repo is a repository for NEW CHALLENGE of career. 
-I aim to join to Mamang in next year (2023) as a Data Engineer. 
-The practice of [leet code](https://leetcode.com/) problems is going to be uploaded irregularly for the coding interview. 
-This is composed of 3 categories in general 
-
-
-  
 ![Leetcode Stats](https://leetcard.jacoblin.cool/jy-977) 
   
-  <a href="https://github.com/KnlnKS/leetcode-stats">
-    <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=jy-977" width="400"/>
-  </a>
-
-
-
-
-
-
 
 
 ## Dash Board 1 : Algo crack   :calendar:
@@ -64,6 +48,13 @@ This is composed of 3 categories in general
   
   
       https://medium.com/geekculture/top-leetcode-patterns-for-faang-coding-interviews-bdbe8766534c
+
+      FAANG-Repo is a repository for NEW CHALLENGE of career. 
+      I aim to join to Mamang in next year (2023) as a Data Engineer. 
+      The practice of [leet code](https://leetcode.com/) problems is going to be uploaded irregularly for the coding interview. 
+      This is composed of 3 categories in general 
+
+
 
 
 </details>
