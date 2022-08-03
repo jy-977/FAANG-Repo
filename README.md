@@ -6,11 +6,11 @@ I aim to join to Mamang in next year (2023) as a Data Engineer.
 The practice of [leet code](https://leetcode.com/) problems is going to be uploaded irregularly for the coding interview. 
 This is composed of 3 categories in general 
 
-1) Algorithms 
-2) Data structures
-3) SQL 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/jy-977?theme=unicorn)
+<center>
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/jy-977?theme=unicorn) 
+</center>
+
 
 ## Dash Board 1 : Algo crack   :calendar:
 
