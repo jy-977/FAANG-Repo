@@ -9,7 +9,8 @@ This is composed of 3 categories in general
 1) Algorithms 
 2) Data structures
 3) SQL 
-![Leetcode Stats](https://leetcard.jacoblin.cool/jy-977)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/jy-977?theme=unicorn)
 
 ## Dash Board 1 : Algo crack   :calendar:
 
