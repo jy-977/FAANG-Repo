@@ -1,4 +1,8 @@
-# :bomb: FAANG!-Repo :bomb:
+
+<div align="center"> 
+  
+  # :bomb: FAANG!-Repo :bomb:  
+</div>
 
 
 FAANG-Repo is a repository for NEW CHALLENGE of career. 
@@ -7,9 +11,18 @@ The practice of [leet code](https://leetcode.com/) problems is going to be uploa
 This is composed of 3 categories in general 
 
 
-<div align="center">
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/jy-977?theme=unicorn) 
-</div>
+  
+![Leetcode Stats](https://leetcard.jacoblin.cool/jy-977) 
+  
+  <a href="https://github.com/KnlnKS/leetcode-stats">
+    <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=jy-977" width="400"/>
+  </a>
+
+
+
+
+
+
 
 
 ## Dash Board 1 : Algo crack   :calendar:
@@ -22,6 +35,7 @@ This is composed of 3 categories in general
 |BFS, DFS|[733 E Flood Fill](https://leetcode.com/problems/flood-fill/)[:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/main/Algorithm/733.E.Flood%20Fill.py)|[116 M Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/116.M.Popluating%20Next%20Right%20Pointers%20in%20Each%20Node.py)|[617 E Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/617.E.Merge%20Two%20Binary%20Trees.py) |[542 M 01 Matrix](https://leetcode.com/problems/01-matrix/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/542.M.01%20Matrix.py)|[944 M Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) [:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/994.M.Rotting%20Oranges.py)|
 |Backtracking, Recursive|[21 E Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) [:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/21.E.Merge%20Two%20Sorted%20Lists.py)|[206 E Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) [:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/main/Algorithm/206.E.Reverse%20Linked%20List.py)|[77 M Combinations](https://leetcode.com/problems/combinations/) [:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/main/Algorithm/77.M.Combinations.py)|[46 M Permutations](https://leetcode.com/problems/permutations/) [:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/main/Algorithm/46.M.Permutations.py)|[784 M Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) [:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/main/Algorithm/784.M.Letter%20Case%20Permuntation.py)
 |DP|||||
+
 
 
 ## ALGO
@@ -44,3 +58,15 @@ This is composed of 3 categories in general
 
 ## Study Plan  :pushpin:
 :paperclip: Algorithm - Search (binary, Linear, Hash )
+
+<details>
+    <summary></summary>
+  
+  
+      https://medium.com/geekculture/top-leetcode-patterns-for-faang-coding-interviews-bdbe8766534c
+
+
+</details>
+
+
+
