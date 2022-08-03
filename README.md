@@ -7,9 +7,9 @@ The practice of [leet code](https://leetcode.com/) problems is going to be uploa
 This is composed of 3 categories in general 
 
 
-<center>
+<div align="center">
   ![Leetcode Stats](https://leetcard.jacoblin.cool/jy-977?theme=unicorn) 
-</center>
+</div>
 
 
 ## Dash Board 1 : Algo crack   :calendar:
