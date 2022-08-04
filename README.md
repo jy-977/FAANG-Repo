@@ -52,7 +52,9 @@ https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-Ho
 :paperclip: Algorithm - Search (binary, Linear, Hash )
 
 <details>
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjy-977%2FFAANG-Repo%2Fblob%2Fmain%2FData%2520Structure%2Ftemp.py&count_bg=%2379C83D&title_bg=%23555555&icon=aiqfome.svg&icon_color=%23E7E7E7&title=&edge_flat=false)](https://hits.seeyoufarm.com)
+  
     <summary></summary>
       https://github.com/Girin7716/PythonCoding
   
