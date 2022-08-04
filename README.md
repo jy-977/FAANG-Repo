@@ -34,6 +34,12 @@
 -Backtracking , recursive
 
 - [] 시간날때 dfs, bfs, backtracking 총정리 하기!
+-DP 
+<details>
+https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-How-to-approach-most-of-DP-problems.
+</details>
+
+
 
 ####
 -Binay Tree /Perfect Binary Tree
