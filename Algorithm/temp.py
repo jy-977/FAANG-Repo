@@ -1,25 +1,35 @@
+class Solution:
+    def minimumTotal(self, triangle: List[List[int]]) -> int:
+#         트리로 구현해서 풀어야 하나?
+#  idea 1) dp
+# 점화식
+# f(x) = f (x-1) + min(arr[x,previous n], arr[x,previous n+1]) == greedy?
 
-        def bfs(r,c) :
-            dirs=[(0,-1),(-1,0),(0,1),(1,0)]
-            visited= set()
-            q = deque([((r,c),0)])
+#         memo = [0 for _ in range(200)]
+        
+#         m = len(triangle)
+
+#         memo[0] = triangle[0][0]
+#         prevY = 0
+#         if(m>2) : 
+#             for x in range(1,m) : 
+#                 triangle[x].index(min(triangle[x])
+#         return memo[m-1]     
+    
+#  idea2
+# 점화식
+#  f(x) = min (arr[x][y]+f(x-1)=min(arr[x-1][y], arr[x-1][y-1]) , ,...)
+        
+        depth = len(triangle)
+        
+        for x in range(depth) : 
+            for y in triangle[x] :
+                
             
-            while q : 
-                for i in range(len(q)):
-                    cur,d = q.popleft();
-                    cur_r,cur_c = cur
-                    if(mat[cur_r][cur_c]==0): return d
-                    visited.add(cur)
-                    for dir in dirs : 
-                        newR , newC = cur_r+dir[0], cur_c+dir[1]
-                        if(newR>=0 and newR<len(mat) and newC>=0 and newC<len(mat[0])):
-                            if(newR,newC) not in visited : 
-                                q.append(((newR, newC),d+1))
-            return -1
             
-     
-
-
+            
+                        
+    
 
 
 
