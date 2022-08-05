@@ -23,6 +23,7 @@
 
 
 ## ALGO
+<details>
 -Two pointers
 
 -Sliding Window
@@ -33,15 +34,13 @@
 
 -Backtracking , recursive
 
-- [] 시간날때 dfs, bfs, backtracking 총정리 하기!
+-DP : 점화식..
 
--DP 
+  <details>
+  https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-How-to-approach-most-of-DP-problems.
+  </details>
 
-<details>
-https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-How-to-approach-most-of-DP-problems.
 </details>
-
-
 
 ####
 -Binay Tree /Perfect Binary Tree
@@ -52,9 +51,6 @@ https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-Ho
 :paperclip: Algorithm - Search (binary, Linear, Hash )
 
 <details>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjy-977%2FFAANG-Repo%2Fblob%2Fmain%2FData%2520Structure%2Ftemp.py&count_bg=%23FFFFFF&title_bg=%23FFFFFF&icon=aiqfome.svg&icon_color=%23A4A4A4&title=-&edge_flat=false)](https://hits.seeyoufarm.com)
-  
     <summary></summary>
       https://github.com/Girin7716/PythonCoding
   
