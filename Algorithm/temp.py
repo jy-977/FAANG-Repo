@@ -1,24 +1,24 @@
-public int minimumTotal(List<List<Integer>> triangle) {
-    int n = triangle.size();
-    int[][] dp = new int[n][n];
-    List<Integer> lastrow = triangle.get(n-1);
-    for(int i = lastrow.size()-1; i>=0; i--){
-        dp[n-1][i] = lastrow.get(i);
-    }
-    
-    for(int i = dp.length-2; i>=0; i--){
-        for(int j = 0; j<dp.length; j++){
-            List<Integer> curr_row = triangle.get(i);
-            if(j<curr_row.size()){
-                dp[i][j] = curr_row.get(j) + Math.min(dp[i+1][j],dp[i+1][j+1]);   
-            }
-        }
-    }
-    return dp[0][0];
-}
-}
-    
+>>> bin(0b1 << 1)
+'0b10'
+>>> bin(0b1 << 2)
+'0b100'
+>>> bin(0b1 << 3)
+'0b1000'
+위에서 1이 점점 왼쪽으로 이동하는 것을 볼 수 있습니다.
 
+다음은 오른쪽 시프트(>>)입니다.
+
+>>> bin(0b1010 >> 1)
+'0b101'
+1이 오른쪽으로 한 자리씩 밀린 것을 볼 수 있습니다. 더 많이 시프트하면 어떻게 될까요?
+
+>>> bin(0b1010 >> 2)
+'0b10'
+>>> bin(0b1010 >> 3)
+'0b1'
+>>> bin(0b1010 >> 4)
+'0b0'
+점점 밀려서 결국 0이 되었네요.
 
 
 
