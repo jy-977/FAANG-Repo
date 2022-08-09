@@ -9,7 +9,8 @@
   
 
 
-## Dash Board 1 : Algo crack   :calendar:
+## Dash Board 1 : Algo crack LV1  :calendar:
+<details><summary>Open Dashboard 1</summary>
 
 ||Q1|Q2|Q3|Q4|Q5|
 |:---:|---|---|---|---|---|
@@ -20,9 +21,13 @@
 |Backtracking, Recursive|[21 E Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) [:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/21.E.Merge%20Two%20Sorted%20Lists.py)|[206 E Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) [:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/main/Algorithm/206.E.Reverse%20Linked%20List.py)|[77 M Combinations](https://leetcode.com/problems/combinations/) [:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/main/Algorithm/77.M.Combinations.py)|[46 M Permutations](https://leetcode.com/problems/permutations/) [:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/main/Algorithm/46.M.Permutations.py)|[784 M Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) [:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/main/Algorithm/784.M.Letter%20Case%20Permuntation.py)
 |DP|[70 E Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) [:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/main/Algorithm/70.E.Climbing%20Stairs.py)|[198 M House Robber](https://leetcode.com/problems/house-robber/) [:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/main/Algorithm/198.M.House%20Robber.py)|[120 M Triangle](https://leetcode.com/problems/triangle/)||
 |Bit Manipulation| [231 E Power of Two](https://leetcode.com/problems/power-of-two/submissions/) [:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/main/Algorithm/231.E.Power%20of%20Two.py)|[191 E Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) [:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/main/Algorithm/191.E.Number%20of%201%20Bits.py)|[190 E Reverse Bits](https://leetcode.com/problems/reverse-bits/) [:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/main/Algorithm/190.E.Reverse%20Bits.py)|[136 E Single Number](https://leetcode.com/problems/single-number/) [:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/main/Algorithm/136.E.Single%20Number.py)
+ </details>
 
+## Dash Board 2 : Algo crack LV2 + Top Ama :calendar:
 
-
+| Date | |Algo Crack LV2|| Top Ama Interview |
+| ------------- | ---|:-------------: |---|:-------------:|
+| 09/AUG  |![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat) |[34 Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/344.E.Reverse%20String.py) | ![Medium](https://img.shields.io/badge/Medium-5cb85c.svg?style=flat)      |[1 two Sum](https://leetcode.com/problems/two-sum/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/344.E.Reverse%20String.py) | 
 ## ALGO
 <details>
 -Two pointers
@@ -41,12 +46,13 @@
   https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-How-to-approach-most-of-DP-problems.
   </details>
 
-</details>
 
-####
+
 -Binay Tree /Perfect Binary Tree
 
 -Singly Linked List 
+</details>
+
 
 ## Study Plan  :pushpin:
 :paperclip: Algorithm - Search (binary, Linear, Hash )
