@@ -7,11 +7,14 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/jy-977) 
   
+## Dash Board 2 : Algo crack LV2 + Top Ama 
 
+| Date | |Algo Crack LV2|| Top Ama Interview |
+| ------------- | ---|:-------------: |---|:-------------:|
+| 09/AUG  |![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat) |[34 Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/344.E.Reverse%20String.py) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)    |[1 two Sum](https://leetcode.com/problems/two-sum/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/344.E.Reverse%20String.py) | 
 
-## Dash Board 1 : Algo crack LV1  :calendar:
-<details><summary>Open Dashboard 1</summary>
-
+## Dash Board 1 : Algo crack LV1  :calendar: 
+<details><summary></summary>
 ||Q1|Q2|Q3|Q4|Q5|
 |:---:|---|---|---|---|---|
 |Binary Search, two pointers|[704 E Binary search ](https://leetcode.com/problems/binary-search/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/704.Binary%20Search.py)|[278 E First Bad Version](https://leetcode.com/problems/first-bad-version/) [:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/35.%20Search%20Insert%20Position.py)|[35 E Search Insert Position](https://leetcode.com/problems/search-insert-position/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/35.%20Search%20Insert%20Position.py)|[977 E Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/977.Squares%20of%20a%20Sorted%20Array.py)|189 M Rotated Array|
@@ -23,11 +26,7 @@
 |Bit Manipulation| [231 E Power of Two](https://leetcode.com/problems/power-of-two/submissions/) [:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/main/Algorithm/231.E.Power%20of%20Two.py)|[191 E Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) [:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/main/Algorithm/191.E.Number%20of%201%20Bits.py)|[190 E Reverse Bits](https://leetcode.com/problems/reverse-bits/) [:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/main/Algorithm/190.E.Reverse%20Bits.py)|[136 E Single Number](https://leetcode.com/problems/single-number/) [:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/main/Algorithm/136.E.Single%20Number.py)
  </details>
 
-## Dash Board 2 : Algo crack LV2 + Top Ama :calendar:
 
-| Date | |Algo Crack LV2|| Top Ama Interview |
-| ------------- | ---|:-------------: |---|:-------------:|
-| 09/AUG  |![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat) |[34 Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/344.E.Reverse%20String.py) | ![Medium](https://img.shields.io/badge/Medium-5cb85c.svg?style=flat)      |[1 two Sum](https://leetcode.com/problems/two-sum/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/344.E.Reverse%20String.py) | 
 ## ALGO
 <details>
 -Two pointers
