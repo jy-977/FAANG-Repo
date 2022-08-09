@@ -15,6 +15,7 @@
 
 ## Dash Board 1 : Algo crack LV1  :calendar: 
 <details><summary></summary>
+
 ||Q1|Q2|Q3|Q4|Q5|
 |:---:|---|---|---|---|---|
 |Binary Search, two pointers|[704 E Binary search ](https://leetcode.com/problems/binary-search/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/704.Binary%20Search.py)|[278 E First Bad Version](https://leetcode.com/problems/first-bad-version/) [:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/35.%20Search%20Insert%20Position.py)|[35 E Search Insert Position](https://leetcode.com/problems/search-insert-position/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/35.%20Search%20Insert%20Position.py)|[977 E Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/977.Squares%20of%20a%20Sorted%20Array.py)|189 M Rotated Array|
