@@ -9,9 +9,10 @@
   
 ## Dash Board 2 : Algo crack LV2 + Top Ama 
 
-| Date | Algo Crack LV2| Top Ama Interview |
-| ------------- | :-------------: |:-------------:|
-| 09/AUG  |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) [34 Find First and Last Position ..](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/344.E.Reverse%20String.py) | ![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)   [1 E Two Sum](https://leetcode.com/problems/two-sum/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/1.E.Two%20Sum.py) | 
+| Date |Lv| Algo Crack|Lv| Top Ama Interview |
+| ------------- | :-------------: | :-------------: |:-------------:| :-------------: |
+| 09/AUG  |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) x | [34 Find First and Last Position ..](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/34.E.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py) | ![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)   |[1 E Two Sum](https://leetcode.com/problems/two-sum/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/1.E.Two%20Sum.py) |
+ | 10/AUG  |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)  | [33 Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|[12 M Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | 
 
 ## Dash Board 1 : Algo crack LV1  :calendar: 
 <details><summary></summary>
