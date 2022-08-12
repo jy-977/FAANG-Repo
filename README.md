@@ -31,8 +31,8 @@
 </details>
 
 
-## ALGO
 <details>
+ <summary>temp</summary>
 -Two pointers
 
 -Sliding Window
@@ -57,11 +57,8 @@
 </details>
 
 
-## Study Plan  :pushpin:
-:paperclip: Algorithm - Search (binary, Linear, Hash )
-
 <details>
-    <summary></summary>
+    <summary>empty</summary>
       https://github.com/Girin7716/PythonCoding
   
       https://medium.com/geekculture/top-leetcode-patterns-for-faang-coding-interviews-bdbe8766534c
