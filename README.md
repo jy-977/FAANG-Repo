@@ -6,21 +6,30 @@
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/jy-977) 
-  
-## Dash Board 2 : Algo crack LV2 + Top Ama 
+## Dash Board 3 : Algo crack LV2 + Top Ama - 2 (DS)
+| Date |DS|Lv| Algo Crack|Lv| Top Ama Interview |
+| ------------- |--- |:-------------: | :------------- |:-------------: |:-------------:| 
+|05/SEP|Linked List|131 |
+|05/SEP|
+
+## Dash Board 2 : Algo crack LV2 + Top Ama - 1
+<details><summary></summary>
 
 | Date |Lv| Algo Crack||Lv| Top Ama Interview ||
 | ------------- | :-------------: | :------------- |:-------------: |:-------------:| :------------- | :-------------:|
 | 09/AUG  |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)  | [34 Find First and Last Position ..](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/34.E.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py) :heavy_minus_sign: | ![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)   |[1 Two Sum](https://leetcode.com/problems/two-sum/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/1.E.Two%20Sum.py) |
  | 10/AUG  |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)  | [33 Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/33.M.Search%20in%20Rotated%20Sorted%20Array.py) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|[12 Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/12.M.Integer%20to%20Roman.py) :heavy_minus_sign:
  | 11/AUG  |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)  | [74 Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/74.M.Search%20a%202D%20Matrix.py)  |![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)  |[23 Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 
-  | 12/AUG  |||||||
   |13/AUG |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)  | [153 Find Minimum in Rotated ..](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/153.M.Find%20Minimum%20in%20Rotated%20Sorted%20Array.py)  |![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)  |[42 Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/42.H.Trapping%20Rain%20Water.py) :heavy_minus_sign:| 
   |14/AUG |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)  | [162 Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/162.M.Find%20Peak%20Element.py) :heavy_minus_sign: |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)   |[49 Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/49.M.Group%20Anagrams.py) :heavy_minus_sign:| 
  |15/AUG |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)  | [82 Remove Duplicates from..](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| |![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)   |[127 Word Ladder](https://leetcode.com/problems/word-ladder/)|| 
 |16/AUG |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)  | [15 3Sum](https://leetcode.com/problems/3sum/)| |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)  |[138 Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/138.M.Copy%20List%20with%20Random%20Pointer.py)| 
 |17/AUG | ![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)   | [844 Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/844.E.Backspace%String%20Compare.py)  |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)  |[139 Word Break](https://leetcode.com/problems/word-break/)|| 
 |23/AUG |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)   | [11 Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/11.M.Container%20With%20Most%20Water.py)  |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)  |
+|5/SEP ||||![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat) |[1603 Design Parking System](https://leetcode.com/problems/design-parking-system/) | [:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/1603.E.Design%20Parking%20System.py) 
+
+</details>
+
 ## Dash Board 1 : Algo crack LV1  :calendar: 
 <details><summary></summary>
 
