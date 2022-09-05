@@ -6,10 +6,10 @@
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/jy-977) 
-## Dash Board 3 : Algo crack LV2 + Top Ama - 2 (DS)
+## Dash Board 3 : DS
 | Date |DS|Lv| Algo Crack|Lv| Top Ama Interview |
 | ------------- |--- |:-------------: | :------------- |:-------------: |:-------------:| 
-|05/SEP|Linked List|131 |
+|05/SEP|Array|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[217 Contains Duplication](https://leetcode.com/problems/contains-duplicate/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/217.E.Contains$20Duplication.py)
 |05/SEP|
 
 ## Dash Board 2 : Algo crack LV2 + Top Ama - 1
