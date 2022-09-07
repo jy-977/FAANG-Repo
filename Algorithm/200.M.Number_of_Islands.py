@@ -5,7 +5,6 @@ class Solution:
         dr = [0,1,0,-1]
         dc = [1,0,-1,0]
         def bfs(r,c) :
-            
             #1)탈출조건
             if(grid[r][c]=="0") : return
             #2)visited - mainaction
