@@ -1,101 +1,17 @@
 
 <div align="center"> 
   
-  # :bomb: FAANG!-Repo :bomb:  
+  # :bomb: FAANG!-Repo : SQL :bomb:  
 </div>
 
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/jy-977) 
 
-## Dash Board 3 : DS
-| Date |DS|Lv| Algo Crack||Lv| Top Ama Interview ||
-| ------------- |--- |:-------------: |-- |:------------- |:-------------: |:-------------:|--| 
-|05/SEP|Array|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[217 Contains Duplication](https://leetcode.com/problems/contains-duplicate/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/217.E.Contains%20Duplication.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|[53 Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/53.M.Maximum%20Subarray.py)
-|06/SEP|Array|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[88 Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/88.E.Merge_Sorted_Array.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
-|07/SEP|Array|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[350 Intersection of Two Arrays II(HS)](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/350.E.Intersection_of_Two_Arrays_II.py)|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[121 Best Time to Buy and Sell Stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/121.E.Best_Time_to_Buy_and_Sell_Stock.py)
-|08/SEP|Array|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[118 Pascals Triangle](https://leetcode.com/problems/pascals-triangle/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/118.E.Pascals_Triangle.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|[36 Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|
-|08/SEP|Array|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[387 First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/387.E.First_Unique_Character_in_a_String.py)|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[383 Ransom Note](https://leetcode.com/problems/ransom-note/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/383.E.Ransom_Note.py)
+=======
+## Dash Board SQL -1
+| Date || prob1|| prob2||prob3||
+| ------------- |:-------------: |-- |:------------- |:-------------: |:-------------:|--|----| 
+|08/SEP|select|[175 Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/sql/SQL/175.E.Combine_Two_Tables.sql)|[595 Big Countries](https://leetcode.com/problems/big-countries/)|[:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/sql/SQL/595.E.Big_Countries.sql)|[1757 Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/sql/SQL/1757.E.Recyclable_and_Low_Fat_Products.sql)|
+|08/SEP|select|[584 Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)|[:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/sql/SQL/584.E.Find_Customer_Referee.sql)|[183 Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order)|[:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/sql/SQL/183.E.Customers_Who_Never_Order.sql)|[1873 Calculate Special Bonus](https://leetcode.com/problems/customers-who-never-order)|[:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/sql/SQL/1873.E.Calculate_Special_Bonus.sql)|[627 Swap Salary](https://leetcode.com/problems/customers-who-never-order)|(https://github.com/jy-977/FAANG-Repo/blob/sql/SQL/627.E.Swap_Salary.sql)|[192 Delete Duplicate Emails](https://leetcode.com/problems/customers-who-never-order)|(https://github.com/jy-977/FAANG-Repo/blob/sql/SQL/192.E.Delete_Duplicate_Emails.sql)|
 
-
-## Dash Board 2 : Algo crack LV2 + Top Ama - 1
-<details><summary></summary>
-
-| Date |Lv| Algo Crack||Lv| Top Ama Interview ||
-| ------------- | :-------------: | :------------- |:-------------: |:-------------:| :------------- | :-------------:|
-| 09/AUG  |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)  | [34 Find First and Last Position ..](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/34.E.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py) :heavy_minus_sign: | ![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)   |[1 Two Sum](https://leetcode.com/problems/two-sum/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/1.E.Two%20Sum.py) |
- | 10/AUG  |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)  | [33 Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/33.M.Search%20in%20Rotated%20Sorted%20Array.py) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|[12 Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/12.M.Integer%20to%20Roman.py) :heavy_minus_sign:
- | 11/AUG  |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)  | [74 Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/74.M.Search%20a%202D%20Matrix.py)  |![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)  |[23 Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 
-  |13/AUG |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)  | [153 Find Minimum in Rotated ..](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/153.M.Find%20Minimum%20in%20Rotated%20Sorted%20Array.py)  |![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)  |[42 Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/42.H.Trapping%20Rain%20Water.py) :heavy_minus_sign:| 
-  |14/AUG |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)  | [162 Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/162.M.Find%20Peak%20Element.py) :heavy_minus_sign: |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)   |[49 Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/49.M.Group%20Anagrams.py) :heavy_minus_sign:| 
- |15/AUG |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)  | [82 Remove Duplicates from..](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| |![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat)   |[127 Word Ladder](https://leetcode.com/problems/word-ladder/)|| 
-|16/AUG |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)  | [15 3Sum](https://leetcode.com/problems/3sum/)| |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)  |[138 Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/138.M.Copy%20List%20with%20Random%20Pointer.py)| 
-|17/AUG | ![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)   | [844 Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/844.E.Backspace%String%20Compare.py)  |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)  |[139 Word Break](https://leetcode.com/problems/word-break/)|| 
-|23/AUG,7/SEP |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)   | [11 Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/11.M.Container%20With%20Most%20Water.py)  |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)  |[200 Number of Islands(BFS)](https://leetcode.com/problems/number-of-islands/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/200.M.Number_of_Islands.py) 
-|5/SEP ||||![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat) |[1603 Design Parking System](https://leetcode.com/problems/design-parking-system/) | [:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/1603.E.Design%20Parking%20System.py) 
-
-</details>
-
-## Dash Board 1 : Algo crack LV1  :calendar: 
-<details><summary></summary>
-
-||Q1|Q2|Q3|Q4|Q5|
-|:---:|---|---|---|---|---|
-|Binary Search, two pointers|[704 E Binary search ](https://leetcode.com/problems/binary-search/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/704.Binary%20Search.py)|[278 E First Bad Version](https://leetcode.com/problems/first-bad-version/) [:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/35.%20Search%20Insert%20Position.py)|[35 E Search Insert Position](https://leetcode.com/problems/search-insert-position/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/35.%20Search%20Insert%20Position.py)|[977 E Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/977.Squares%20of%20a%20Sorted%20Array.py)|189 M Rotated Array|
-|Two pointers|[283 E Move zeroes](https://leetcode.com/problems/move-zeroes/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/283.E.Move%20Zeros.py)|[167 M two SumII](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/167.M.Two%20Sum%20II.py) |[344 E Reverse String](https://leetcode.com/problems/reverse-string/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/344.E.Reverse%20String.py)|[557 E Reversed Words in a StringIII](https://leetcode.com/problems/reverse-words-in-a-string-iii/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/557.E.Reverse%20Words%20in%20a%20String%20III.py)|[876 E Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/876.E.Middle%20of%20the%20LinkedList.py)
-|Sliding window|[3 M Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/3.M.Longest%20Substring%20Without%20Repeating%20Characters.py)|[ 567 M Permutation in String](https://leetcode.com/problems/permutation-in-string/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/567.M.Permuation%20in%20String.py)
-|BFS, DFS|[733 E Flood Fill](https://leetcode.com/problems/flood-fill/)[:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/main/Algorithm/733.E.Flood%20Fill.py)|[116 M Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/116.M.Popluating%20Next%20Right%20Pointers%20in%20Each%20Node.py)|[617 E Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/617.E.Merge%20Two%20Binary%20Trees.py) |[542 M 01 Matrix](https://leetcode.com/problems/01-matrix/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/542.M.01%20Matrix.py)|[944 M Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) [:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/994.M.Rotting%20Oranges.py)|
-|Backtracking, Recursive|[21 E Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) [:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/21.E.Merge%20Two%20Sorted%20Lists.py)|[206 E Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) [:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/main/Algorithm/206.E.Reverse%20Linked%20List.py)|[77 M Combinations](https://leetcode.com/problems/combinations/) [:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/main/Algorithm/77.M.Combinations.py)|[46 M Permutations](https://leetcode.com/problems/permutations/) [:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/main/Algorithm/46.M.Permutations.py)|[784 M Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) [:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/main/Algorithm/784.M.Letter%20Case%20Permuntation.py)
-|DP|[70 E Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) [:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/main/Algorithm/70.E.Climbing%20Stairs.py)|[198 M House Robber](https://leetcode.com/problems/house-robber/) [:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/main/Algorithm/198.M.House%20Robber.py)|[120 M Triangle](https://leetcode.com/problems/triangle/)||
-|Bit Manipulation| [231 E Power of Two](https://leetcode.com/problems/power-of-two/submissions/) [:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/main/Algorithm/231.E.Power%20of%20Two.py)|[191 E Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) [:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/main/Algorithm/191.E.Number%20of%201%20Bits.py)|[190 E Reverse Bits](https://leetcode.com/problems/reverse-bits/) [:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/main/Algorithm/190.E.Reverse%20Bits.py)|[136 E Single Number](https://leetcode.com/problems/single-number/) [:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/main/Algorithm/136.E.Single%20Number.py)
-</details>
-
-
-<details>
- <summary>temp</summary>
--Two pointers
-
--Sliding Window
-
--DFS
-
--BFS
-
--Backtracking , recursive
-
--DP : 점화식..
-
-  <details>
-  https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-How-to-approach-most-of-DP-problems.
-  </details>
-
-
-
--Binay Tree /Perfect Binary Tree
-
--Singly Linked List 
-</details>
-
-
-<details>
-    <summary>empty</summary>
-      https://github.com/Girin7716/PythonCoding
-  
-      https://medium.com/geekculture/top-leetcode-patterns-for-faang-coding-interviews-bdbe8766534c
-
-      FAANG-Repo is a repository for NEW CHALLENGE of career. 
-      I aim to join to Mamang in next year (2023) as a Data Engineer. 
-      The practice of [leet code](https://leetcode.com/) problems is going to be uploaded irregularly for the coding interview. 
-      This is composed of 3 categories in general 
-
-
-
-
-</details>
-
-
-
-
-HS - hashmap 
-DP - Dynamic 
-TP - twopointers / sliding window
