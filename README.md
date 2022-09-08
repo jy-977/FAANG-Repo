@@ -1,13 +1,18 @@
 
 <div align="center"> 
   
-  # :bomb: FAANG!-Repo :bomb:  
+  # :bomb: FAANG!-Repo : SQL :bomb:  
 </div>
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/jy-977) 
 
+## Dash Board SQL
+| Date |Lv| prob1||Lv| prob2||
+| ------------- |:-------------: |-- |:------------- |:-------------: |:-------------:|--| 
+|08/SEP|Join|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[175 Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[:arrow_forward:]|!
 
+<!-- 
 ## Dash Board 3 : DS
 | Date |DS|Lv| Algo Crack||Lv| Top Ama Interview ||
 | ------------- |--- |:-------------: |-- |:------------- |:-------------: |:-------------:|--| 
@@ -93,4 +98,4 @@
 </details>
 
 
-
+ -->
