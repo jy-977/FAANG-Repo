@@ -10,7 +10,7 @@
 ## Dash Board SQL
 | Date |Lv| prob1||Lv| prob2||
 | ------------- |:-------------: |-- |:------------- |:-------------: |:-------------:|--| 
-|08/SEP|Join|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[175 Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[:arrow_forward:]|!
+|08/SEP|Join|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[175 Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[:arrow_forward:](https://github.com/jy-977/FAANG-Repo/blob/sql/SQL/175.E.Combine_Two_Tables.py)|!
 
 <!-- 
 ## Dash Board 3 : DS
