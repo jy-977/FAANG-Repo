@@ -5,12 +5,14 @@
 </div>
 
 
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/jy-977) 
+
 ## Dash Board 3 : DS
 | Date |DS|Lv| Algo Crack||Lv| Top Ama Interview ||
 | ------------- |--- |:-------------: |-- |:------------- |:-------------: |:-------------:|--| 
-|05/SEP|Array|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[217 Contains Duplication](https://leetcode.com/problems/contains-duplicate/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/217.E.Contains$20Duplication.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|[53 Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/53.M.Maximum%20Subarray.py)
-|06/SEP|Array|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[88 Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/88.E.Merge_Sorted_List.py)
+|05/SEP|Array|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[217 Contains Duplication(HS)](https://leetcode.com/problems/contains-duplicate/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/217.E.Contains$20Duplication.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|[53 Maximum Subarray (DP)](https://leetcode.com/problems/maximum-subarray/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/53.M.Maximum%20Subarray.py)
+|06/SEP|Array|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[88 Merge Sorted Array (TP)](https://leetcode.com/problems/merge-sorted-array/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/88.E.Merge_Sorted_List.py)
 
 ## Dash Board 2 : Algo crack LV2 + Top Ama - 1
 <details><summary></summary>
@@ -89,3 +91,7 @@
 
 
 
+
+HS - hashmap 
+DP - Dynamic 
+TP - twopointers / sliding window
