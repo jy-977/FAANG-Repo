@@ -19,7 +19,7 @@
 
 
 ## Dash Board 2 : Algo crack LV2 + Top Ama - 1
-<details><summary></summary>
+
 
 | Date |Lv| Algo Crack||Lv| Top Ama Interview ||
 | ------------- | :-------------: | :------------- |:-------------: |:-------------:| :------------- | :-------------:|
@@ -33,8 +33,7 @@
 |17/AUG | ![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)   | [844 Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/844.E.Backspace%String%20Compare.py)  |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)  |[139 Word Break](https://leetcode.com/problems/word-break/)|| 
 |23/AUG,7/SEP |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)   | [11 Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/11.M.Container%20With%20Most%20Water.py)  |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)  |[200 Number of Islands(BFS)](https://leetcode.com/problems/number-of-islands/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/200.M.Number_of_Islands.py) 
 |5/SEP ||||![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat) |[1603 Design Parking System](https://leetcode.com/problems/design-parking-system/) | [:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/1603.E.Design%20Parking%20System.py) 
-
-</details>
+|10/SEP ||||![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)  |[207 Course Schedule dfs](https://leetcode.com/problems/course-schedule/) | [:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/207.M.Course_Schedule.py) 
 
 ## Dash Board 1 : Algo crack LV1  :calendar: 
 <details><summary></summary>
