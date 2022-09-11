@@ -17,14 +17,21 @@ class Solution:
         # linked list two pointer특징 : 
         # slow  = slow. next , faster = faster.next.next
         
-        if (head==None) : return False
-        slow = head
-        faster = head.next
-        while faster and faster.next:
-            if faster== slow : return True 
-            slow = slow.next
-            faster = faster.next.next
+#         if (head==None) : return False
+#         slow = head
+#         faster = head.next
+#         while faster and faster.next:
+#             if faster== slow : return True 
+#             slow = slow.next
+#             faster = faster.next.next
+#         return False
+    
+        #solution : hash map 114ms 17.41 % faster / 18mb 10.32 less
+        hm={}
+        while head : 
+            if (head not in hm) : 
+                hm[head] = 1
+                head = head.next
+            else : return True
         return False
-        #hash map
-        
         
