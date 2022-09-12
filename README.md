@@ -4,7 +4,9 @@
   # :bomb: FAANG!-Repo :bomb:  
 </div>
 
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/jy-977) 
+
 ## Dash Board 3 : DS
 | Date |DS|Lv| Algo Crack||Lv| Top Ama Interview ||
 | ------------- |--- |:-------------: |-- |:------------- |:-------------: |:-------------:|--| 
@@ -12,10 +14,12 @@
 |06/SEP|Array|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[88 Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/88.E.Merge_Sorted_Array.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|
 |07/SEP|Array|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[350 Intersection of Two Arrays II(HS)](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/350.E.Intersection_of_Two_Arrays_II.py)|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[121 Best Time to Buy and Sell Stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/121.E.Best_Time_to_Buy_and_Sell_Stock.py)
 |08/SEP|Array|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[118 Pascals Triangle](https://leetcode.com/problems/pascals-triangle/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/118.E.Pascals_Triangle.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|[36 Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|
-|08/SEP|Array|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[387 First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/387.E.First_Unique_Character_in_a_String.py)|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[383 Ransom Note](https://leetcode.com/problems/ransom-note/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/383.E.Ransom_Note.py)
+|08/SEP|STR|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[387 First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/387.E.First_Unique_Character_in_a_String.py)|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[383 Ransom Note](https://leetcode.com/problems/ransom-note/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/383.E.Ransom_Note.py)
+|11/SEP|LinkedList|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[242 Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/242.E.Valid_Anagram.py)|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[141 Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/?envType=study-plan&id=data-structure-i)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/141.E.Linked_List_Cycle.py)
+
 
 ## Dash Board 2 : Algo crack LV2 + Top Ama - 1
-<details><summary></summary>
+
 
 | Date |Lv| Algo Crack||Lv| Top Ama Interview ||
 | ------------- | :-------------: | :------------- |:-------------: |:-------------:| :------------- | :-------------:|
@@ -29,8 +33,7 @@
 |17/AUG | ![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)   | [844 Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/844.E.Backspace%String%20Compare.py)  |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)  |[139 Word Break](https://leetcode.com/problems/word-break/)|| 
 |23/AUG,7/SEP |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)   | [11 Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/11.M.Container%20With%20Most%20Water.py)  |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)  |[200 Number of Islands(BFS)](https://leetcode.com/problems/number-of-islands/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/200.M.Number_of_Islands.py) 
 |5/SEP ||||![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat) |[1603 Design Parking System](https://leetcode.com/problems/design-parking-system/) | [:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/1603.E.Design%20Parking%20System.py) 
-
-</details>
+|10/SEP ||||![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)  |[207 Course Schedule dfs](https://leetcode.com/problems/course-schedule/) | [:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/207.M.Course_Schedule.py) 
 
 ## Dash Board 1 : Algo crack LV1  :calendar: 
 <details><summary></summary>
@@ -91,3 +94,7 @@
 
 
 
+
+HS - hashmap 
+DP - Dynamic 
+TP - twopointers / sliding window
