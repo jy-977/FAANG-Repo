@@ -13,3 +13,28 @@ Sep 13
 전략을 잘 세워야할것 같다. 
 leet code난이도는 생각보다 중요하지 않고 일단 cv던져서 면접까지 가보는게 중요하다
 이번주까지 cv준비해서 던져야지
+
+Four-year full-tuition scholarship awarded for academic excellence in high school.
+Master's degree in Informatics Engineering
+<work experience>
+Teacher assistance ; 
+Practical teaching on big data course of up to 45 students : R programming
+
+Communication skill in canal 
+: lead the communications and analysis the requirements with billing manager  for designing and improving user experience
+
+AUTOIN 
+
+
+
+첫번째줄 업무 설명
+1.	First line : general work description
+2.	Specific work experience 1 + Achievement 1
+3.	Specific work experience 2 + Achievement 2
+
+
+Visualization + short time face to face meeting
+
+Questions – accurate requirements
+www.linkedin.com/in/jeongyun--lee
+
