@@ -7,6 +7,11 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/jy-977) 
 
+## Datsh Board 4 : F, A
+| Date |Lv| F||Lv| A ||
+| -------------  |:-------------: |-- |:------------- |:-------------: |:-------------:|--| 
+|22 Sep |E|[1480 Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/1480.E.Running_Sum_of_1d_Array.py)|E|[1710 Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/1710.E.Maximum_Units_on_a_Track.py)
+
 ## Dash Board 3 : DS
 | Date |DS|Lv| Algo Crack||Lv| Top Ama Interview ||
 | ------------- |--- |:-------------: |-- |:------------- |:-------------: |:-------------:|--| 
