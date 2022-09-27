@@ -37,7 +37,7 @@ Leadership Principle 중에서도 특징이 비슷한 것들 (ex., 문제해결,
 
 
 
-## 9. Ownership :star:
+## 2. Ownership :star:
   주인의식 : 이거 내잘못(책임) 아닌데? XXXXXX
 
   잘못 문제 키워드 : 다른사람의 잘못을 나서서 처리한 ep 
@@ -55,7 +55,7 @@ Leadership Principle 중에서도 특징이 비슷한 것들 (ex., 문제해결,
 
 --------------------------------
 
-## 5. Bias for Action:star:
+## 3. Bias for Action:star:
   신속하게 판단하고 행동한ㄷ
 
 **Key words**   : problem solving 문제해결, responsibility 책임
@@ -69,7 +69,7 @@ Leadership Principle 중에서도 특징이 비슷한 것들 (ex., 문제해결,
 
 ---------------------------------
 
-## 11. Frugality :star: :question:
+## 4. Frugality :star: :question:
   최소한의 자원으로 최대한의 성과를 내라
   경험..?
 
@@ -86,8 +86,23 @@ Leadership Principle 중에서도 특징이 비슷한 것들 (ex., 문제해결,
 
 --------------------------------
 
+## 5. deliver Result :star:
+  문제 극복하고 성과를 낼것
 
-## 2. Earn Trust 
+
+**Key words**   :  문제해결력, 문제집착력
+  <details>
+
+ **Example Questions**
+- Describe the most chanllenging situation in your life and how you handle it
+- Give an example of time when you had to handle variety of assginment. What was outcome?
+- Tell me about a time when your team gave up on something, but you pushed them to deliver result 
+</details>
+
+
+--------------------------------
+
+## 6. Earn Trust 
   다른 사람을 존중해서 신뢰를 얻어라
 
  **Key words** : conflict 갈등, communication 커뮤니케이션
@@ -109,7 +124,7 @@ Leadership Principle 중에서도 특징이 비슷한 것들 (ex., 문제해결,
 
 --------------------------------
 
-## 4. Think Big
+## 7. Think Big
   나의 남다른 비전,결정을 통해 성과를 만들어낸다
   열정을 크게 가지면 생각하는 방식 자체가 바뀐다
 
@@ -125,7 +140,7 @@ Leadership Principle 중에서도 특징이 비슷한 것들 (ex., 문제해결,
 
 
 --------------------------------
-## 6. Are right alot
+## 8. Are right alot
   리더는 정확하고 옳아야 한다
   이것도 리더직급에서 많이 쓰일것 같은데?
 
@@ -139,7 +154,7 @@ Leadership Principle 중에서도 특징이 비슷한 것들 (ex., 문제해결,
   </details>
 
 --------------------------------
-## 7. Insist on the highest standards
+## 9. Insist on the highest standards
   최고의 기준을 추구한다 go above and beyond
 
 **Key words**   : 자체평가 (satisfaction), improvement
@@ -152,7 +167,7 @@ Leadership Principle 중에서도 특징이 비슷한 것들 (ex., 문제해결,
 </details>
 
 --------------------------------
-## 8. Dive Deep 
+## 10. Dive Deep 
 
 **Key words**   : 문제집착력 , 끈기
   <details>
@@ -168,7 +183,7 @@ Leadership Principle 중에서도 특징이 비슷한 것들 (ex., 문제해결,
 
 
 --------------------------------
-## 10. Learn & Be qurious :question:
+## 11. Learn & Be qurious :question:
   계속배우고 탐구해라 (학문적 아니면 경험적?)
 
 **Key words**   : ....
@@ -211,22 +226,9 @@ Leadership Principle 중에서도 특징이 비슷한 것들 (ex., 문제해결,
 - Tell me about a time when you tried to simplify a process but failed. what woulde you have done differently?
 </details>
 
---------------------------------
-## 14. deliver Result :star:
-  문제 극복하고 성과를 낼것
-
-
-**Key words**   :  문제해결력, 문제집착력
-  <details>
-
- **Example Questions**
-- Describe the most chanllenging situation in your life and how you handle it
-- Give an example of time when you had to handle variety of assginment. What was outcome?
-- Tell me about a time when your team gave up on something, but you pushed them to deliver result 
-</details>
 
 --------------------------------
-## 3. Hire & Develop the best
+## 14. Hire & Develop the best
   좋은사람을 뽑아야 조직이 성장한다
   이건 매니저 직급 혹은 HR에서 많이 질문할듯 : 준비는 하되 중요도 낮음
   L3..?
