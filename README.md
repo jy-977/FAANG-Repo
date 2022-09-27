@@ -10,9 +10,11 @@
 ## Datsh Board 4 : F, A
 | Date |Lv| F||Lv| A ||
 | -------------  |:-------------: |-- |:------------- |:-------------: |:-------------:|--| 
-|22 Sep |E|[1480 Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/1480.E.Running_Sum_of_1d_Array.py)|E|[1710 Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/1710.E.Maximum_Units_on_a_Track.py)
-|25 Sep |E|[270 Closest Binary Search Tree Value(Tree)](https://leetcode.com/problems/closest-binary-search-tree-value/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/270.E.Closest_Binary_Search_Tree_Value.py)|E|[700 Search in a Binary Search Tree(Tree)](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/700.E.Search_in_a_Binary_Search_Tree.py)
-|25 SEP |M|[222 Count Complete Tree Nodes (Tree)](https://leetcode.com/problems/count-complete-tree-nodes/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/222.M.Count_Complete_Tree_Nodes.py)
+|22/Sep |E|[1480 Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/1480.E.Running_Sum_of_1d_Array.py)|E|[1710 Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/1710.E.Maximum_Units_on_a_Track.py)
+|25/Sep |E|[270 Closest Binary Search Tree Value(Tree)](https://leetcode.com/problems/closest-binary-search-tree-value/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/270.E.Closest_Binary_Search_Tree_Value.py)|E|[700 Search in a Binary Search Tree(Tree)](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/700.E.Search_in_a_Binary_Search_Tree.py)
+|25/SEP |M|[222 Count Complete Tree Nodes (Tree)](https://leetcode.com/problems/count-complete-tree-nodes/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/222.M.Count_Complete_Tree_Nodes.py)
+|26/SEP |E|[94 Binary Tree Inorder Traversal(Tree)](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/94.E.Binary_Tree_Inorder_Traversal.py)|M|[222 Count Complete Tree Nodes (Tree)](https://leetcode.com/problems/count-complete-tree-nodes/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/222.M.Count_Complete_Tree_Nodes.py)
+
 ## Dash Board 3 : DS
 | Date |DS|Lv| Algo Crack||Lv| Top Ama Interview ||
 | ------------- |--- |:-------------: |-- |:------------- |:-------------: |:-------------:|--| 
