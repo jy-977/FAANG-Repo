@@ -12,4 +12,4 @@
 
 - Tell me about a time when you had to tell a harsh truth to someone.
 - 어려운데..
-  
+  - ds
