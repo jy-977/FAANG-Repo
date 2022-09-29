@@ -15,7 +15,7 @@
 |25/SEP |M|[222 Count Complete Tree Nodes (Tree)](https://leetcode.com/problems/count-complete-tree-nodes/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/222.M.Count_Complete_Tree_Nodes.py)|
 |26/SEP |E|[94 Binary Tree Inorder Traversal(Tree)](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/94.E.Binary_Tree_Inorder_Traversal.py)|M|[98 Validate Binary Search Tree (Tree)](https://leetcode.com/problems/validate-binary-search-tree/)|[>>](https://leetcode.com/problems/count-complete-tree-nodes/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/98.M.Validate_Binary_Search_Tree.py)
 |27/SEP|E|[501 Find Mode in Binary Search Tree(Tree)](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/501.E.Find_Mode_in_Binary_Search_Tree.py)
-|29/SEP|M|[230 Kth Smallest Element in a BST(Tree)](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/230.M.Kth_Smallest_Element_in_a_BST.py)
+|29/SEP|M|[230 Kth Smallest Element in a BST(Tree)](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/230.M.Kth_Smallest_Element_in_a_BST.py)|M|[285 Inorder Successor in BST(Tree)](https://leetcode.com/problems/inorder-successor-in-bst/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/285.M.Inorder_Successor_in_BST.py)
 
 ## Dash Board 3 : DS
 | Date |DS|Lv| Algo Crack||Lv| Top Ama Interview ||
@@ -108,3 +108,4 @@
 HS - hashmap 
 DP - Dynamic 
 TP - twopointers / sliding window
+BST - Binary Search Tree [>>]()
