@@ -27,8 +27,26 @@ Leadership Principle 중에서도 특징이 비슷한 것들 (ex., 문제해결,
 
 **Example Questions**
 - Tell me about a time when you had to make a desicion about how to best serve a customer or group of customers
+조교시험지 돌린경험
+이니스프리 알바경험
+- **상황** : 
+
 - Tell me about a time when you didn't meet customer expectiations. What happened, and how did you deal with the situation?
+**상황** : 
+나는 사내 인트라넷을 리뉴얼 하는 과정에서 새로움에 익숙하지 않은 사원과의 갈등이있었지만 커뮤니케이션스킬로 해결한 경험이 있다 
+나는 사내 resource manage program 을 웹 프로그램으로 만들어 배포하는 업무를 맡았는데 프로토타입을 다른 팀 들에게 보여주니까 매우 회의적이었다.
+
+**갈등** :  그들은 이미 회사에서 20-30년간 같은 프로그램을 써왔고 새로운 변화를 불필요하다고 생각했다. 또 새로운 프로그램에 적응하는 것을 어려워 하고 두려워했다.
+-처음에는 필요성을 강조하고 어떻게 사용하는지를 보여주려고 했지만 의견을 듣고 싶지 않아하는 태도에 어려움을 겼었다 이 때문에 초반에 개발 일정이 밀렸다
+
+**해결** : 그래서 그들이 20-30년간 해온 일과 성취에 대해 인정하고 그들의 입장을 이해하고 관계를 말랑하게 만들기 위해(다른 표현없나,,) 시도했다. 회의뿐 만 아니라 그들과 coffeechat을 통해 그들의 이야기를 듣고 불편함을 편안한 분위기에서 듣고 requiremnets와 수정사항을 수집했다.
+이렇게 관계를 쌓은 후에는 그들이 도와주려고 노력했고 이후에는 그들이 더 잘 이해하도록 시각적인 자료를 통해 설명했다. 미리 각 부서에서 사용하는 주요기능을 시뮬레이션 해 본후 화면 캡쳐를 하여 스토리보드를 만들어 배포했다. 또 개발 전에 목업을 회의에서 제시하여 그들이 이해하기 쉽게 했다.
+
+**결과** : 이를 통해 초반에 지연되었던 개발을 해결 할 수 있었고 현재까지 70%의 리뉴얼이 진행 될 수 있었다. 또 다른 팀과의 관계 개선을 통해 다른 업무에서도 지원을 많이 받을 수 있었다. 이를 통해 문제의 기술적 해결 뿐만 아니라 이해관계자 / 고객 과의 신뢰와 관계도 중요한 요소임을 알고 커뮤니케이션 스킬을 증진시키기 위해서 노력했다~~ㄴ
+
+
 - Who was your most difficult customer?
+
 - How do you go about prioritizing customer needs when you are dealing with large number of customers? (대규모 고객)
 - 
 </details>
