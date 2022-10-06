@@ -9,7 +9,7 @@
             stack,p =[],root
             while stack or p : 
                 if p : 
-                    stack.append(p.val)
+                    stack.append(p)
                     p = p.left
                 else : 
                     p = stack.pop()
