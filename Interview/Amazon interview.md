@@ -3,7 +3,7 @@ Leadership Principle 중에서도 특징이 비슷한 것들 (ex., 문제해결,
 
 자주쓰이는 고급단어는 따로 외워두기/ 회화체 좋은데 좀 더 전문적인 단어 사용권장
 
-
+dd
 ## 1. cusomer obsession (고객 집착) :star:
 <details>
   <details>
