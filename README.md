@@ -1,7 +1,7 @@
 
 <div align="center"> 
   
-  # :bomb: FAANG!-Repo :bomb:  
+  # :bomb: Interviw Preperation :bomb:  
 </div>
 
 
