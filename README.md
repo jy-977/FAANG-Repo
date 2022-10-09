@@ -31,10 +31,10 @@
 |11/SEP|LinkedList|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[242 Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/242.E.Valid_Anagram.py)|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[141 Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/?envType=study-plan&id=data-structure-i)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/141.E.Linked_List_Cycle.py)
 
 
-## Dash Board 2 : Algo crack LV2 + Top Ama - 1
+## Dash Board 2 : Algo crack LV2 + Top A - 1
 
 
-| Date |Lv| Algo Crack||Lv| Top Ama Interview ||
+| Date |Lv| Algo Crack||Lv| Top A Interview ||
 | ------------- | :-------------: | :------------- |:-------------: |:-------------:| :------------- | :-------------:|
 | 09/AUG  |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)  | [34 Find First and Last Position ..](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/34.E.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py) :heavy_minus_sign: | ![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)   |[1 Two Sum](https://leetcode.com/problems/two-sum/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/1.E.Two%20Sum.py) |
  | 10/AUG  |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)  | [33 Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/33.M.Search%20in%20Rotated%20Sorted%20Array.py) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|[12 Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/12.M.Integer%20to%20Roman.py) :heavy_minus_sign:

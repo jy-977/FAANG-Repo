@@ -65,6 +65,9 @@ dd
 <details>
 
 **Example Questions**
+퇴근후 서버다운으로 인해 일시적으로 사내 빌링 시스템이 작동하지 않아서 임시로 작업 진행중이던 리뉴얼 프로그램에서 영수증 발행 --> forwording
+결과 : 긴급한 고객 요청에 대응 가능할 수 있었다. 타 부서의신뢰 획득
+**S** 나는 빌링시스템을 리뉴얼하는업무를 
 
 - Tell me about a time when you took on a task that was beyond your responsibilities
 - Tell me about a time when you had to work on a task with unclear respoinsibilities
