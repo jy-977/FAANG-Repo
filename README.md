@@ -19,6 +19,8 @@
 |30/SEP|E|[783.Minimum Distance Between Nodes(BST)](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/783.E.Minimum_Distance_Between_BST_Nodes.py)|E|[938 Range Sum of BST (BST)](https://leetcode.com/problems/range-sum-of-bst/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/938.E.Range_Sum_of_BST.py)
 |3/OCT|M|[2415.Reverse Odd Levels of Binary Tree(BST)](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|E|[997 Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|
 |6/OCT|M|[116.Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/116-1.M.Populating_Next_Right_Pointers_in_Each_Node.py)|M|[117.Populating Next Right Pointers in Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| [>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/117.M.Populating_Next_Right_Pointers_in_Each_Node_II.py)
+|14/OCT|M|[937.Reorder Data in Log Files(str)](https://leetcode.com/problems/reorder-data-in-log-files/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/937.M.Reorder_Data_in_Log_Files.py)|E|[2287.Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/)|[>>]()
+
 
 ## Dash Board 3 : DS
 | Date |DS|Lv| Algo Crack||Lv| Top Ama Interview ||
