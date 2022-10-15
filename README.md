@@ -21,7 +21,7 @@
 |6/OCT|M|[116.Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/116-1.M.Populating_Next_Right_Pointers_in_Each_Node.py)|M|[117.Populating Next Right Pointers in Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| [>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/117.M.Populating_Next_Right_Pointers_in_Each_Node_II.py)
 |14/OCT|M|[937.Reorder Data in Log Files(str)](https://leetcode.com/problems/reorder-data-in-log-files/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/937.M.Reorder_Data_in_Log_Files.py)|E|[2287.Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/2287.E.Rearrange_Characters_to_Make_Target_String.py)
 |14/OCT|M|[973.K Closest Point to Origin(Arr)](https://leetcode.com/problems/k-closest-points-to-origin/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/973.M.K_Closest_Points_to_Origin.py)|M|[347.M.Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/347.M.Top_K_Frequent_Elements.py)
-
+|15/OCT|M|[238.M.Product_of_Array_Except_Self](https://leetcode.com/problems/product-of-array-except-self/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/238.M.Product_of_Array_Except_Self.py)|M|[15.M.3Sum](https://leetcode.com/problems/3sum/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/15.M.3Sum.py)
 
 ## Dash Board 3 : DS
 <details><summary></summary>
