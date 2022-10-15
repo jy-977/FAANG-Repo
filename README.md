@@ -24,6 +24,7 @@
 |15/OCT|M|[238 Product_of_Array_Except_Self](https://leetcode.com/problems/product-of-array-except-self/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/238.M.Product_of_Array_Except_Self.py)|M|[15.M.3Sum](https://leetcode.com/problems/3sum/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/15.M.3Sum.py)
 |15/OCT|M|[424 Longest Repeating Character Replacement (SWD)](https://leetcode.com/problems/longest-repeating-character-replacement/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/424.M.Longest_Repeating_Charater_Replacement.py)|M|[59 Sprial Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/59.M.Spiral_Matrix_II.py)
 |15/OCT|E|[20 Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/20.E.Valid_Parenthese.py)|M|[155 Min Stack (SD)](https://leetcode.com/problems/min-stack/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/155.M.Min_Stack.py)
+|15/OCT|M|[150 Evaluate Reverse Polish Notation (ST)](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/150.M.Evaluate_Reverse_Polish_Notation.py)
 ## Dash Board 3 : DS
 <details><summary></summary>
 
