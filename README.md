@@ -19,10 +19,12 @@
 |30/SEP|E|[783.Minimum Distance Between Nodes(BST)](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/783.E.Minimum_Distance_Between_BST_Nodes.py)|E|[938 Range Sum of BST (BST)](https://leetcode.com/problems/range-sum-of-bst/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/938.E.Range_Sum_of_BST.py)
 |3/OCT|M|[2415.Reverse Odd Levels of Binary Tree(BST)](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|E|[997 Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|
 |6/OCT|M|[116.Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/116-1.M.Populating_Next_Right_Pointers_in_Each_Node.py)|M|[117.Populating Next Right Pointers in Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| [>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/117.M.Populating_Next_Right_Pointers_in_Each_Node_II.py)
-|14/OCT|M|[937.Reorder Data in Log Files(str)](https://leetcode.com/problems/reorder-data-in-log-files/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/937.M.Reorder_Data_in_Log_Files.py)|E|[2287.Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/)|[>>]()
+|14/OCT|M|[937.Reorder Data in Log Files(str)](https://leetcode.com/problems/reorder-data-in-log-files/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/937.M.Reorder_Data_in_Log_Files.py)|E|[2287.Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/2287.E.Rearrange_Characters_to_Make_Target_String.py)
+|14/OCT|M|[973.K Closest Point to Origin(Arr)](https://leetcode.com/problems/k-closest-points-to-origin/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/973.M.K_Closest_Points_to_Origin.py)|M|[347.M.Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/347.M.Top_K_Frequent_Elements.py)
 
 
 ## Dash Board 3 : DS
+<details><summary></summary>
 | Date |DS|Lv| Algo Crack||Lv| Top Ama Interview ||
 | ------------- |--- |:-------------: |-- |:------------- |:-------------: |:-------------:|--| 
 |05/SEP|Array|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[217 Contains Duplication](https://leetcode.com/problems/contains-duplicate/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/217.E.Contains%20Duplication.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|[53 Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/53.M.Maximum%20Subarray.py)
@@ -31,10 +33,10 @@
 |08/SEP|Array|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[118 Pascals Triangle](https://leetcode.com/problems/pascals-triangle/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/118.E.Pascals_Triangle.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|[36 Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|
 |08/SEP|STR|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[387 First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/387.E.First_Unique_Character_in_a_String.py)|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[383 Ransom Note](https://leetcode.com/problems/ransom-note/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/383.E.Ransom_Note.py)
 |11/SEP|LinkedList|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[242 Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/242.E.Valid_Anagram.py)|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[141 Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/?envType=study-plan&id=data-structure-i)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/141.E.Linked_List_Cycle.py)
-
+</details>
 
 ## Dash Board 2 : Algo crack LV2 + Top A - 1
-
+<details><summary></summary>
 
 | Date |Lv| Algo Crack||Lv| Top A Interview ||
 | ------------- | :-------------: | :------------- |:-------------: |:-------------:| :------------- | :-------------:|
@@ -49,7 +51,8 @@
 |23/AUG,7/SEP |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)   | [11 Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/11.M.Container%20With%20Most%20Water.py)  |![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)  |[200 Number of Islands(BFS)](https://leetcode.com/problems/number-of-islands/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/200.M.Number_of_Islands.py) 
 |5/SEP ||||![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat) |[1603 Design Parking System](https://leetcode.com/problems/design-parking-system/) | [:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/1603.E.Design%20Parking%20System.py) 
 |10/SEP ||||![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)  |[207 Course Schedule dfs](https://leetcode.com/problems/course-schedule/) | [:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/207.M.Course_Schedule.py) 
- 
+ </details>
+
 ## Dash Board 1 : Algo crack LV1  :calendar: 
 <details><summary></summary>
 
