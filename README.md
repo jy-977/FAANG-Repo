@@ -23,9 +23,10 @@
 |14/OCT|M|[973 K Closest Point to Origin(Arr)](https://leetcode.com/problems/k-closest-points-to-origin/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/973.M.K_Closest_Points_to_Origin.py)|M|[347 Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/347.M.Top_K_Frequent_Elements.py)
 |15/OCT|M|[238 Product_of_Array_Except_Self](https://leetcode.com/problems/product-of-array-except-self/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/238.M.Product_of_Array_Except_Self.py)|M|[15.M.3Sum](https://leetcode.com/problems/3sum/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/15.M.3Sum.py)
 |15/OCT|M|[424 Longest Repeating Character Replacement (SWD)](https://leetcode.com/problems/longest-repeating-character-replacement/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/424.M.Longest_Repeating_Charater_Replacement.py)|M|[59 Sprial Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/59.M.Spiral_Matrix_II.py)
-
+|15/OCT|E|[20 Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/20.E.Valid_Parenthese.py)|M|[155 Min Stack (SD)](https://leetcode.com/problems/min-stack/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/155.M.Min_Stack.py)
 ## Dash Board 3 : DS
 <details><summary></summary>
+
 | Date |DS|Lv| Algo Crack||Lv| Top Ama Interview ||
 | ------------- |--- |:-------------: |-- |:------------- |:-------------: |:-------------:|--| 
 |05/SEP|Array|![easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)|[217 Contains Duplication](https://leetcode.com/problems/contains-duplicate/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/217.E.Contains%20Duplication.py)|![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)|[53 Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[:arrow_forward:](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/53.M.Maximum%20Subarray.py)
