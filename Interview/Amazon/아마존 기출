@@ -1,0 +1,102 @@
+1)O주자창 커버- 완료
+ Find the minimum length of the roof that covers K cars.
+
+ You are given an List of positions of cars as to where they are parked. You are also given an integer K. 
+ The cars needs to be covered with a roof. You have to find the minimum length of roof that takes to cover K cars.
+ 
+ Input : 12,6,5,2      K = 3
+ 
+ Explanation :  There are two possible roofs that can cover K cars. One that covers the car in 2,5,6 parking spots and
+ another roof which covers 5,6,12 parking spots. The length of these two roofs are 5 and 8 respectively. Return 5
+ since that's the roof with minimum length that covers K cars.
+
+ Output : 5
+
+ #solution
+ 슬라이딩 윈도우
+ 1) sort Input
+ 2) min ( lenof3cars)
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+2) 쌀주머니 - 완료
+The set contains at least two bags of rice.
+
+When the rice bags in the set perfect are sorted in increasing order by grain count, it satisfies the condition perfect[] perfect[i]= perfect[i+1]
+ for all Here n is the size of the set and perfect[i] is the number of rice grains in bag.
+
+Find the largest possible set perfect and return an integer, the size of that set. If no such set is possible, then return -1. It is guaranteed that all elements in riceBags are distinct.
+
+Example
+
+Let the bags of rice available on Amazon have grain counts [3, 9, 4, 2, 16]. The following are the perfect sets.
+
+Set perfect = [3, 9]. The size of this set is 2.
+Set perfect=[4,2]. The size of this set is 2.  
+Set perfect = [4, 16]. The size of this set is 2.
+Set perfect = [4, 2, 16]. The size of this set is 3.
+
+The size of the largest set is 3. The image below illustrates the correct ordering of the purchased rice bags by grains of rice.
+
+Function Description
+
+Complete the function maxSetSize in the editor below.
+
+maxSetSize has the following parameter: int riceBags[n]: the list of bags of rice by rice grain count
+
+#쌀주머니 1번문제 이미지랑 같음
+
+3)배열 0 으로 - 완료 ----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+2357. Make Array Zero by Subtracting Equal Amounts
+https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/
+
+#쉬움 : 
+hahs 문제
+
+
+
+4)----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+https://leetcode.com/discuss/interview-question/1636493/Amazon-or-OA-or-Max-Length-of-Valid-Server-Cluster
+---------------------------------------------------------------------
+5) sub array의 합 - 시도 : 실패 
+https://leetcode.com/problems/sum-of-subarray-ranges/
+2104. Sum of Subarray Ranges
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+6 ) 프로세스 종료 - 완료 
+Given list of processes where each value representing memory consuption by the process and given one variable m representing number of processes to be removed. We need to delete m number of processes from the list in contiguous manner and return minimum amount of main memory used by all the proccesses running after deleting contiguous segment of processes.
+
+Example - processes = {10,4,8,13,20}, m = 2;
+output = 22 [removing 13 and 20 as its consuming large memory]
+
+슬라이딩 윈도우
+'연속한' 프로세스m 개를 제거하는 효율적인 방법
+window sum = 윈도우내부의 합
+max_consumsuption = max(max_consumsuption , windowsum)
+
+
+7) 웨이트 리프팅 (역도) --------------------------------------------
+Imagine you are shopping on Amazon.com for some good weight lifting equipment. The equipment you want has plates of many different weights that you can combine to lift.
+
+The listing on Amazon gives you an array, plates, that consists of n different weighted plates, in kilograms. There are no two plates with the same weight. The element plates[i] denotes the weight of the plate from the top the stack. You consider weight lifting equipment to be good if the plate at the top is the lightest, and the plate at the bottom is the heaviest
+
+More formally, the equipment with array plates will be called good weight lifting equipment if it satisfies the following conditions (assuming the index of the array starts from 1):
+
+plates[1]< plates[i] for all (2 <= i <=n)
+plates[i]<plates[n] for all (1 <= i <=n-1)
+In one move, you can swap the order of adjacent plates. Find out the minimum number of moves required to form good weight lifting equipment. Eg : Plates in order plates=[3,2,1]
+
+In the first move we swap the first and the second plate and after swapping the order becomes plates=[2,3,1]
+In the second move, we swap the second and the third plates. After swapping, the order becomes: plates [2, 1, 3]
+In the third move, we swap the first and the second plates. After swapping, the order becomes: plates = [1, 2, 3]
+
+------------------------------------------------------------------------------------------
+8) 245 group Shifted 완료
