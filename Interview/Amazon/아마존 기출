@@ -48,6 +48,8 @@ maxSetSize has the following parameter: int riceBags[n]: the list of bags of ric
 
 #쌀주머니 1번문제 이미지랑 같음
 
+
+
 3)배열 0 으로 - 완료 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -62,9 +64,10 @@ hahs 문제
 4)----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
 https://leetcode.com/discuss/interview-question/1636493/Amazon-or-OA-or-Max-Length-of-Valid-Server-Cluster
----------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 5) sub array의 합 - 시도 : 실패 
 https://leetcode.com/problems/sum-of-subarray-ranges/
 2104. Sum of Subarray Ranges
@@ -99,4 +102,96 @@ In the second move, we swap the second and the third plates. After swapping, the
 In the third move, we swap the first and the second plates. After swapping, the order becomes: plates = [1, 2, 3]
 
 ------------------------------------------------------------------------------------------
-8) 245 group Shifted 완료
+8) 249 group Shifted 완료
+https://leetcode.com/problems/group-shifted-strings/
+
+
+abc->bca는 같은 family
+key+=chr((ord(s[c+1])-ord(s[c]))%26+ord('a'))
+
+
+------------------------------------------------------------------------------------------
+9) 2272 Substring with Largest variance 
+
+
+
+------------------------------------------------------------------------------------------
+
+10) 2221 Find Triangular Sum of Array 완료
+https://leetcode.com/problems/find-triangular-sum-of-an-array/
+파스칼의 삼각형
+1 n-1/1 (n-1)(n-2)/1*2 (n-1)(n-2)(n-3)/1*2*3
+
+
+
+
+------------------------------------------------------------------------------------------
+11) 트럭 소포 해결
+Q2) Minimum cost to load parcels on truck:
+
+
+There are several parcels with parcel IDs numbered from 1 to infinity. We are given an array containing the parcel ID of some parcels and an integer K. The cost of loading a parcel on the truck is the same as its parcel ID. We need to find the minimum cost of loading parcels on the truck such that there at total K parcels on the truck.
+
+Sample Input:
+parcels already loaded on the truck = [1, 4, 5, 10], k = 6
+
+Sample Output:
+minimum cost = 5
+
+The parcels that can be loaded on the truck are 2,3 whose sum is 2+3=5.
+
+
+바이너리 서치 binary search 키워드 "최소"
+
+공식
+
+    검사함수 (용량) :
+        용량으로 시뮬레이션 했을때 기간안에 끝나면 return True 
+        else : return False 
+
+    -- binarysearch
+    l ,r =최소용량, 최대용량
+    while (l<r) : 
+        mid = l,r의 중간값
+        if(확인함수 (용량 )) : 
+            right = mid 
+            left = mid+1
+    return left
+
+------------------------------------------------------------------------------------
+https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
+랑 비슷하다
+def shipWithinDays(weights: List[int], D: int) -> int:
+    def feasible(capacity) -> bool:
+        days = 1
+        total = 0
+        for weight in weights:
+            total += weight
+            if total > capacity:  # too heavy, wait for the next day
+                total = weight
+                days += 1
+                if days > D:  # cannot ship within D days
+                    return False
+        return True
+
+    left, right = max(weights), sum(weights)
+    while left < right:
+        mid = left + (right - left) // 2
+        if feasible(mid):
+            right = mid
+        else:
+            left = mid + 1
+    return left
+------------------------------------------------------------------------
+12) door amazon office 문 열기 아마존
+https://leetcode.com/discuss/interview-question/2614784/AMAZON-OA
+------------------------------------------------------------------------
+
+13) 2륜 4륜 구동 
+
+if( 홀수 ) : append.(0)
+else : 
+    arr[i]//4 +1
+
+------------------------------------------------------------------------
+14) 아마존 킨들 북마크
