@@ -257,3 +257,14 @@ initiate 초래하다 시작하다
 initiate / lead / change -->
 
 <!-- https://www.levels.fyi/blog/amazon-leadership-principles.html -->
+
+
+<!-- Frugality :  -->
+<!-- Earn Trust -->
+<!-- 실수한 경험  : 웹 수정하고 배포하는 과정에서 CI/CD 가 안돼서 배포 할때마다 예상하지 못한곳에서 버그가 계속나옴
+아니면 일부분이 업데이트가 안되고 버전 관리가 힘들엇음. : 이걸 해결하기 위해서 젠킨스로 CI/CD 프로 세스 재정비함
+ -->
+
+ <!-- deep dive : trust yet verify 아직 신뢰는 굳건하지 않아 계속 follow up 하고 문제 해결과정 프로세스를 따라야함 -->
+ <!-- have backbon : disagree and commit :  갈등 : 내 주장에 타당한 이유 (데이터)가지기 이 갈등에서 동료를 적대시하는게 아니라 같은 목표를 향하는 동료라는것을 잊지말것
+ -->
