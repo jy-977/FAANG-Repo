@@ -22,19 +22,7 @@ BEN : 나 새로와서 complete, test 시간 얼마나 걸릴지 어떻게 확�
     BE RIGHT, ALOT : 
 
 
-<<<<<<< HEAD
-1 4 2 3 5
-
-팀 늘린다 : higre ?
-업데이트 e to e 테스트 : frugality 위배
-유저테스트 더한다
-경력자 더 모집
-시간 더 늘린다
-유닛 케이스를 더 늘린다
-1
-=======
 4 1 5 2 3
->>>>>>> c41df9ed574c6d35bf842a23e0b51057e2951d48
 
 
 https://leetcode.com/discuss/interview-question/2667179/Help-in-Amazon-workstyle-Assessment-Questions!
@@ -52,8 +40,6 @@ https://leetcode.com/discuss/interview-question/750217/Amazon-SDE-New-Grad-OA-Pa
 https://www.practiceaptitudetests.com/top-employer-profiles/amazon-assessments/
 무료테스트
 
-<<<<<<< HEAD
-=======
 customer obsession
 ownership
 be right alot
@@ -67,4 +53,3 @@ Earn trust
 deep dive
 
 
->>>>>>> c41df9ed574c6d35bf842a23e0b51057e2951d48

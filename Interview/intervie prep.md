@@ -267,6 +267,7 @@ initiate / lead / change -->
 
  <!-- deep dive : trust yet verify 아직 신뢰는 굳건하지 않아 계속 follow up 하고 문제 해결과정 프로세스를 따라야함 -->
  <!-- have backbon : disagree and commit :  갈등 : 내 주장에 타당한 이유 (데이터)가지기 이 갈등에서 동료를 적대시하는게 아니라 같은 목표를 향하는 동료라는것을 잊지말것
+<<<<<<< HEAD
  -->
 
  생각을 말하는데 주저가 없어야함
@@ -281,3 +282,6 @@ initiate / lead / change -->
  갈등 - 위험요소 우호적으로 풀어나가야함
  비교 , 경쟁은 다름 / 비교는 때때로 할 수 있다. 
 
+=======
+ -->
+>>>>>>> c41df9ed574c6d35bf842a23e0b51057e2951d48
