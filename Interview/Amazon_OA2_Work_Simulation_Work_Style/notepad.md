@@ -52,8 +52,6 @@ https://leetcode.com/discuss/interview-question/750217/Amazon-SDE-New-Grad-OA-Pa
 https://www.practiceaptitudetests.com/top-employer-profiles/amazon-assessments/
 무료테스트
 
-<<<<<<< HEAD
-=======
 customer obsession
 ownership
 be right alot
@@ -67,4 +65,6 @@ Earn trust
 deep dive
 
 
->>>>>>> c41df9ed574c6d35bf842a23e0b51057e2951d48
+
+
+일단 내 판단이 맞다고 생각하면 의견 구하지 말고 그냥 행동하기 bias for action!
