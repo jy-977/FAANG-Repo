@@ -30,6 +30,7 @@
 |17/OCT|M|[2214 Minimum Health to Beat Game](https://leetcode.com/problems/minimum-health-to-beat-game/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/2214.M.Minimum_Health_to_Beat_Game.py)|E|[2357 Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/2357.E.Make_Array_Zero_by_Substracting_Equal_Amounts.py)
 |18/OCT|M|[249 Group Shifted strings(HM)](https://leetcode.com/problems/group-shifted-strings/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/249.M.Group_Shifted_Strings.py)|M|[153 Find Minimum in Rotated Sorted Array (BS)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/153.M.Find_Minimum_in_Rotated_Sorted_Array.py)
 |24/OCT|M|[875 Koko Eating Bananas (BS)](https://leetcode.com/problems/koko-eating-bananas/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/875.M.Koko_Eating_Bananas.py)|M|[33 Search in Rotated Sorted Array (BS)](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/33.M.Search_in_Rotated_Sorted_Array.py)|
+|26/OCT|M|[739 Daily Tempratures (Stack)](https://leetcode.com/problems/daily-temperatures/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/739.M.Daily_Temperatures.py)
 ## Dash Board 3 : DS
 <details><summary></summary>
 
