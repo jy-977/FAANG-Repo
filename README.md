@@ -4,10 +4,18 @@
   # :bomb: Interviw Preperation :bomb:  
 </div>
 
-
 ![Leetcode Stats](https://leetcard.jacoblin.cool/jy-977) 
 
-## Datsh Board 4 : F, A
+## Dash Board 5 : NOV. REFRESHING!!
+| Date  |  |Lv   | Q1   | |Lv  | Q2   |  |
+| ------|--|:----|:-----|-|:---|:-----|--|
+|15 NOV |monostack|E|[496 Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/496.E.Next_Greater_Element_I.py)|M|[503 Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/503.M.Next_Greater_Element_II.py)|
+
+
+## Dash Board 4 : F, A
+
+<details><summary></summary>
+
 | Date |Lv| F||Lv| A ||
 | -------------  |:------------- |:--|:------------- |:------------- |:-------------|--| 
 |22/Sep |E|[1480 Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/1480.E.Running_Sum_of_1d_Array.py)|E|[1710 Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/1710.E.Maximum_Units_on_a_Track.py)
@@ -31,6 +39,8 @@
 |18/OCT|M|[249 Group Shifted strings(HM)](https://leetcode.com/problems/group-shifted-strings/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/249.M.Group_Shifted_Strings.py)|M|[153 Find Minimum in Rotated Sorted Array (BS)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/153.M.Find_Minimum_in_Rotated_Sorted_Array.py)
 |24/OCT|M|[875 Koko Eating Bananas (BS)](https://leetcode.com/problems/koko-eating-bananas/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/875.M.Koko_Eating_Bananas.py)|M|[33 Search in Rotated Sorted Array (BS)](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/33.M.Search_in_Rotated_Sorted_Array.py)|
 |26/OCT|M|[739 Daily Tempratures (Stack)](https://leetcode.com/problems/daily-temperatures/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/739.M.Daily_Temperatures.py)
+</details>
+
 ## Dash Board 3 : DS
 <details><summary></summary>
 
