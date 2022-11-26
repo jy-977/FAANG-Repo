@@ -10,6 +10,10 @@
 | Date  |  |Lv   | Q1   | |Lv  | Q2   |  |
 | ------|--|:----|:-----|-|:---|:-----|--|
 |15 NOV |monostack|E|[496 Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/496.E.Next_Greater_Element_I.py)|M|[503 Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/503.M.Next_Greater_Element_II.py)|
+|25 NOV| Array |E| Two Sum| |E|27 Remove Element |  >>|
+|25 NOV| Array |E|66 Plus One| E| 163 Missing Ranges||
+|26 Nov| 
+
 
 
 ## Dash Board 4 : F, A
