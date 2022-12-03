@@ -6,15 +6,23 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/jy-977) 
 
+## Dash Board 6 : DEC - GOOGLE
+
+| Date  |  |Lv   | Q1   | |Lv  | Q2   |  |
+| ------|--|:----|:-----|-|:---|:-----|--|
+|3 DEC| Arrary |E|[252 Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|>>|M|[253 Meeting Rooms2](https://leetcode.com/problems/meeting-rooms-ii) |>>|
+
+
 ## Dash Board 5 : NOV. REFRESHING!!
+<details><summary></summary>
+
 | Date  |  |Lv   | Q1   | |Lv  | Q2   |  |
 | ------|--|:----|:-----|-|:---|:-----|--|
 |15 NOV |monostack|E|[496 Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/496.E.Next_Greater_Element_I.py)|M|[503 Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/503.M.Next_Greater_Element_II.py)|
-|25 NOV| Array |E| Two Sum| |E|27 Remove Element |  >>|
-|25 NOV| Array |E|66 Plus One| E| 163 Missing Ranges||
-|26 Nov| 
+|25 NOV| Array |E| Two Sum|>> |E|27 Remove Element |  >>|
+|25 NOV| Array |E|66 Plus One|>>| E| 163 Missing Ranges||
 
-
+</details>
 
 ## Dash Board 4 : F, A
 
