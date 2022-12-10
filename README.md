@@ -12,7 +12,7 @@
 | ------|--|:----|:-----|-|:---|:-----|--|
 |3 DEC| Arrary |E|[252 Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/252.E.Meeting_Rooms.py)|M|[253 Meeting Rooms2](https://leetcode.com/problems/meeting-rooms-ii) |[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/56.M.253.M.Meeting_Rooms_II.py)|
 |3 DEC| Arrary |M|[56 Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/56.M.Merge_Intervals.py)|M|[57 Insert Intervals](https://leetcode.com/problems/insert-interval/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/57.M.Insert_Intervals.py)
-|7 DEC| Stack |M|[394 Decode String](https://leetcode.com/problems/decode-string/)|
+|7 DEC| Stack |M|[394 Decode String](https://leetcode.com/problems/decode-string/)||
 
 
 ## Dash Board 5 : NOV. REFRESHING!!
