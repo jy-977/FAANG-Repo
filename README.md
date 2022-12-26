@@ -6,7 +6,7 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/jy-977) 
 
-## Dash Board 6 : DEC - GOOGLE
+## Dash Board 6 : DEC
 
 | Date  |  |Lv   | Q1   | |Lv  | Q2   |  |
 | ------|--|:----|:-----|-|:---|:-----|--|
@@ -16,7 +16,8 @@
 |12 Dec| Backtracking|M|[784 Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/784.M.Letter_Case_Permutation.py)|
 |18 DEC| [Union Find](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/Summary/Union_Find.py)|E|[1971 Find if Path Exsits in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/1971.E.Find_if_Path_Exists_in_Graph_UnionFind.py)|E|[1971 DFS](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/1971.E.Find_if_Path_Exists_in_Graph_DFS.py)
 |23 DEC | Array|M|[36 Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/36.M.Valid_Sudoku.py)|E|[2133 Check if Every Row..](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/2133.E.Check_if_Every_Row_and_Colum_Contains_All_Numbers.py)
-|25 DEC| Array |
+|25 DEC| Array |M|[271 Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/271.M.Encode_and_Decode_Strings.py)|M|[38 Count and Say](https://leetcode.com/problems/count-and-say/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/38.M.Count_and_Say.py)
+|26 DEC| Array|M|:+1:[128 Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/128.M.Longest_Consecutive_Sequence.py)
 
 ## Dash Board 5 : NOV. REFRESHING!!
 <details><summary></summary>
@@ -26,7 +27,6 @@
 |15 NOV |monostack|E|[496 Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/496.E.Next_Greater_Element_I.py)|M|[503 Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/503.M.Next_Greater_Element_II.py)|
 |25 NOV| Array |E| Two Sum|>> |E|27 Remove Element |  >>|
 |25 NOV| Array |E|66 Plus One|>>| E| 163 Missing Ranges||
-||
 </details>
 
 ## Dash Board 4 : F, A
