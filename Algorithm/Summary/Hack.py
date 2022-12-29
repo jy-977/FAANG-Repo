@@ -1,2 +1,0 @@
-# array -> string : 
-''.joing(array)

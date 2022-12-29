@@ -20,7 +20,7 @@
 |23DEC | Array|M|[36 Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/36.M.Valid_Sudoku.py)|E|[2133 Check if Every Row..](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/2133.E.Check_if_Every_Row_and_Colum_Contains_All_Numbers.py)
 |25DEC| Array |M|[271 Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/271.M.Encode_and_Decode_Strings.py)|M|[38 Count and Say](https://leetcode.com/problems/count-and-say/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/38.M.Count_and_Say.py)
 |26DEC| [Array](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/Summary/String.md)|M|:+1:[128 Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/128.M.Longest_Consecutive_Sequence.py)|M|[2414 Length of the longest..](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/2414.M.Length_of_the_Longest_Alphabetical_Continuous_Substring.py)
-|27DEC||
+|27DEC|TwoP|M|:+1:[11 Container With Most Water]()|[>>]()|
 
 ## Dash Board 5 : NOV 2022
 <details><summary></summary>
