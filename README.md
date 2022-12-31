@@ -8,7 +8,7 @@
 
 <img src='leetcode_roadmap.PNG'/>
 
-## Dash Board 6 : DEC 2022 (15)
+## Dash Board 6 : DEC 2022 (19)
 
 | Date  |  |Lv   | Q1   | |Lv  | Q2   |  |
 | ------|--|:----|:-----|-|:---|:-----|--|
@@ -20,8 +20,9 @@
 |23DEC | Array|M|[36 Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/36.M.Valid_Sudoku.py)|E|[2133 Check if Every Row..](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/2133.E.Check_if_Every_Row_and_Colum_Contains_All_Numbers.py)
 |25DEC| Array |M|[271 Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/271.M.Encode_and_Decode_Strings.py)|M|[38 Count and Say](https://leetcode.com/problems/count-and-say/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/38.M.Count_and_Say.py)
 |26DEC| [Array](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/Summary/String.md)|M|:+1:[128 Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/128.M.Longest_Consecutive_Sequence.py)|M|[2414 Length of the longest..](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/2414.M.Length_of_the_Longest_Alphabetical_Continuous_Substring.py)
-|27DEC|TwoP|M|:+1:[11 Container With Most Water]()|[>>]()|H|:+1:[42 Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/42.Trapping_Rain_Water.py)
-|29DEC|M.Stack|M|:+1:[853 Car Fleet](https://leetcode.com/problems/car-fleet/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/853.M.Car_Fleet.py)|
+|27DEC|TwoP|M|:+1:[11 Container With Most Water](https://leetcode.com/problems/container-with-most-water/submissions/868042303/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/11.M.Container%20With%20Most%20Water.py)|H|:+1:[42 Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/42.Trapping_Rain_Water.py)
+|29DEC|M.Stack|M|:+1:[853 Car Fleet](https://leetcode.com/problems/car-fleet/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/853.M.Car_Fleet.py)|M|[- 2211 Count Collisions ...](https://leetcode.com/problems/count-collisions-on-a-road/description/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/2211.M.Count_Collisions_on_a_Road.py)
+|30DEC|Stack|M|[- 735 Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/735.M.Asteroid_Collision.py)
 
 ## Dash Board 5 : NOV 2022
 <details><summary></summary>

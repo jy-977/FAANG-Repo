@@ -1,5 +1,12 @@
 # Hacks
 
+## 1. Time Complexity
+<img src="../../timecomplexity.png"/>
+
+        1. O(n) : 100,000,000 : 10^7
+        2. O(nlogn) : 1,000,000 : 10^5
+        3. O(n^2)  : 10,000 : 10^3
+
 ## O(n)
 - 1<=n<=10^5
 - 1<=n<=2*10^4
@@ -14,3 +21,4 @@
 
 ## array -> string : 
 ''.joing(array)
+
