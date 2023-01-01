@@ -7,8 +7,9 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/jy-977) 
 
 <img src='leetcode_roadmap.PNG'/>
+## Dash Board 7 : JEN 2023 (0)
 
-## Dash Board 6 : DEC 2022 (19)
+## Dash Board 6 : DEC 2022 (21)
 
 | Date  |  |Lv   | Q1   | |Lv  | Q2   |  |
 | ------|--|:----|:-----|-|:---|:-----|--|
@@ -22,7 +23,7 @@
 |26DEC| [Array](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/Summary/String.md)|M|:+1:[128 Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/128.M.Longest_Consecutive_Sequence.py)|M|[2414 Length of the longest..](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/2414.M.Length_of_the_Longest_Alphabetical_Continuous_Substring.py)
 |27DEC|TwoP|M|:+1:[11 Container With Most Water](https://leetcode.com/problems/container-with-most-water/submissions/868042303/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/11.M.Container%20With%20Most%20Water.py)|H|:+1:[42 Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/42.Trapping_Rain_Water.py)
 |29DEC|M.Stack|M|:+1:[853 Car Fleet](https://leetcode.com/problems/car-fleet/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/853.M.Car_Fleet.py)|M|[- 2211 Count Collisions ...](https://leetcode.com/problems/count-collisions-on-a-road/description/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/2211.M.Count_Collisions_on_a_Road.py)
-|30DEC|Stack|M|[- 735 Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/735.M.Asteroid_Collision.py)
+|30DEC|Stack,Greedy|M|[- 735 Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/735.M.Asteroid_Collision.py)|M|[2126 Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/description/)|[>>](https://github.com/jy-977/Mamang-Repo/blob/main/Algorithm/2126.M.Destroying_Asteroids.py)
 
 ## Dash Board 5 : NOV 2022
 <details><summary></summary>
