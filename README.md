@@ -9,6 +9,10 @@
 <img src='leetcode_roadmap.PNG'/>
 ## Dash Board 7 : JEN 2023 (0)
 
+
+| Date  |  |Lv   | Q1   | |Lv  | Q2   |  |
+| ------|--|:----|:-----|-|:---|:-----|--|
+
 ## Dash Board 6 : DEC 2022 (21)
 
 | Date  |  |Lv   | Q1   | |Lv  | Q2   |  |
